@@ -1,0 +1,8 @@
+{
+  "emulator_port": 16384,
+  "scan_interval": 2,
+  "evolution_threshold": 0.85,
+  "extra_templates_dir": "extra_templates",
+  "server": "\u56fd\u9645\u670d",
+  "version": "1.0.0"
+}
