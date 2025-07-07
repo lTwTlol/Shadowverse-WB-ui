@@ -1,7 +1,7 @@
-hadowVerseWB-auto 自述文件
 项目简介
 这是一个影之诗（Shadowverse）自动对战脚本，基于图像识别技术实现自动化操作。本版本主要加强了UI体验，并针对常见问题提供了解决方案。
-
+增加了UI自由更换服务器，以及更新功能
+目前更换服务器有些小BUG
 系统要求
 分辨率：1280x720（必须使用此分辨率以确保脚本正常运行）
 
@@ -44,4 +44,6 @@ ADB端口号可在MuMu模拟器的诊断信息中查看。
 
 原项目地址
 GitHub: https://github.com/StarWishLXH/ShadowVerseWB-auto
+
+仅对该脚本进行UI设计以及增加功能等优化
 
