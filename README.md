@@ -49,7 +49,7 @@ GitHub: https://github.com/StarWishLXH/ShadowVerseWB-auto
 
 ## v1.1.0更新内容
 1.增加了游戏卡死游戏自动重启
-2.攻击延迟自定义   推荐参数 0.6~。09
+2.攻击延迟自定义   推荐参数 0.6~09 （s）
 
 ## 1.0.0 更新内容
 ![1.0.0更新内容](https://raw.githubusercontent.com/lTwTlol/Shadowverse-WB-ui/main/1.0.0更新内容.png)
