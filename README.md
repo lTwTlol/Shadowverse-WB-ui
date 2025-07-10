@@ -47,6 +47,8 @@ ADB端口号可在MuMu模拟器的诊断信息中查看。
 GitHub: https://github.com/StarWishLXH/ShadowVerseWB-auto
 仅对该脚本进行UI设计以及增加功能等优化
 
+## v1.2.0更新内容
+![1.2.0更新内容](./1.2.0更新内容.png)
 ## v1.1.0更新内容
 1.增加了游戏卡死游戏自动重启
 2.攻击延迟自定义   推荐参数 0.6~09 （s）
